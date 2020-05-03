@@ -19778,3 +19778,16 @@ a61b29db02b683b219d2d63e39163bfb:
     - animal
   nsfw: false
   original: false
+83158b4eff27f416a5209bda02b83fd9:
+  key: c8695e972edf994476586048adc9fbd4d6e343a06fc43ebcbe51181df7b1d19d
+  source: '@blocsheep@mastodon.social'
+  tags:
+    - SheepWreck
+    - BlocSheep
+    - Labor-01
+    - MayDay
+    - WorkersDay
+    - LaborDay
+    - LabourDay
+  nsfw: false
+  original: true
